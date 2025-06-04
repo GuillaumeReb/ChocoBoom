@@ -1,4 +1,4 @@
-## 📌 À Propos du Projet Galerie des Animaux
+## 📌 À Propos du Projet ChocoBoom
 
 ### 🗓️ Date de création
 
@@ -22,15 +22,16 @@
 
 ### 📖 Description du projet
 
-> Ce projet consiste à créer une page web simple.
-> L’objectif principal était de travailler la mise en page.
+> Ce projet avait pour objectif la création d'une page web simple et soignée.  
+> L’accent a été mis sur la **mise en page**, la **structuration HTML** et les **fondamentaux du CSS**.
 
 ### 🎯 Compétences développées
 
-- Approfondissement des bases du CSS.
-- Meilleure compréhension de la structuration HTML sémantique.
+- Meilleure maîtrise des **bases du CSS**.
+- Approfondissement de la **structure HTML sémantique**.
+- Premier exercice sur la notion de **hiérarchie visuelle**.
 
 ### 💡 Retour personnel
 
-> Ce projet, bien que simple, m’a permis de consolider mes acquis en HTML et CSS.
-> Il m’a aussi sensibilisé à l’importance de l’esthétique dans les interfaces web.
+> Bien que simple, ce projet m’a permis de **consolider mes acquis** et de prendre conscience de **l’importance de la présentation** dans une interface web.  
+> Il a été une excellente première étape vers des projets plus complexes.
